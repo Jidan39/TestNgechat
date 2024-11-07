@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376673000065",
+    "project_id": "testingbroh-cb05b",
+    "storage_bucket": "testingbroh-cb05b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376673000065:android:f5c69248587dd5a3f78b80",
+        "android_client_info": {
+          "package_name": "com.example.testngechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaURlxy_g0VVkQAHYIuADOqga7tBrdF-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
